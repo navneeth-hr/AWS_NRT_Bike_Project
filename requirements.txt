@@ -1,0 +1,7 @@
+# Notebook dependencies (the Lambdas use only the AWS-provided boto3 + stdlib)
+awswrangler>=3.9
+pandas>=2.0
+plotly>=5.24
+jupyterlab
+nbconvert
+ipykernel
