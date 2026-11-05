@@ -1,0 +1,4 @@
+propulsion_type,vehicle_type_id,form_factor,max_range_meters
+human,1,bicycle,
+electric_assist,2,bicycle,54717.56
+electric,3,scooter,70810.95999999999
